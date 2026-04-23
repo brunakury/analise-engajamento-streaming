@@ -38,7 +38,7 @@ Dataset de comportamento de usuários de streaming, contendo informações sobre
 ## Etapas do Projeto
 - [x] Definição do problema
 - [x] Exploração inicial dos dados
-- [ ] Limpeza e tratamento
+- [x] Limpeza e tratamento
 - [ ] Análise exploratória
 - [ ] Visualizações
 - [ ] Insights e recomendações
