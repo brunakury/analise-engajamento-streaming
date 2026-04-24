@@ -39,8 +39,8 @@ Dataset de comportamento de usuários de streaming, contendo informações sobre
 - [x] Definição do problema
 - [x] Exploração inicial dos dados
 - [x] Limpeza e tratamento
-- [ ] Análise exploratória
-- [ ] Visualizações
+- [x] Análise exploratória
+- [x] Visualizações
 - [ ] Insights e recomendações
 
 ---
