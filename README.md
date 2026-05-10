@@ -6,7 +6,7 @@ Este projeto tem como objetivo analisar o comportamento de usuários em uma plat
 ---
 
 ##  Status do Projeto
- Em desenvolvimento
+ Finalizado
 
 ---
 
@@ -41,9 +41,22 @@ Dataset de comportamento de usuários de streaming, contendo informações sobre
 - [x] Limpeza e tratamento
 - [x] Análise exploratória
 - [x] Visualizações
-- [ ] Insights e recomendações
+- [x] Insights e recomendações
 
 ---
 
-## Resultados (em breve)
-Projeto em andamento.
+## Resultados
+
+Principais Insights:
+
+- Usuários com menor engajamento apresentaram maior tendência ao churn.
+- O tipo de plano impacta diretamente o comportamento de consumo.
+- Planos premium apresentaram maior tempo médio assistido e engajamento.
+- O tempo médio semanal assistido se difernecia pelo tipo de dispositivo
+- Os resultados indicam potencial para estratégias de personalização e retenção.
+
+Recomendações:
+
+- Investir em estratégias de retenção para usuários com baixo engajamento.
+- Melhorar experiência em dispositivos com menor consumo.
+- Explorar mecanismos de recomendação personalizada.
