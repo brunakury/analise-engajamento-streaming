@@ -60,3 +60,22 @@ Recomendações:
 - Investir em estratégias de retenção para usuários com baixo engajamento.
 - Melhorar experiência em dispositivos com menor consumo.
 - Explorar mecanismos de recomendação personalizada.
+
+---
+
+# Aprendizados
+
+Durante o desenvolvimento deste projeto foram aprofundados conhecimentos em:
+- exploração e tratamento de dados;
+- análise exploratória de dados;
+- visualização de dados;
+- comportamento de consumo;
+- storytelling com dados.
+
+---
+
+# Autoria
+
+Bruna Kury  
+Estudante de Ciência de Dados  
+Interesses: Dados, IA, comportamento de usuários e produtos digitais.
